@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a developer/hacker with a passion to solve complex, real-world problems with elegant, secure and user-centric (coding) solutions. I like to wear many hats and always keep learning something new. I am also a huge advocate of open-source.
 
-### More Information
+I want a better tomorrow.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Get In Touch
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+* [Github](https://github.com/NabaSadiaSiddiqui)
+* [LinkedIn](htpps://ca.linkedin.com/in/nabasiddiqui)
+* [Stack Overflow](http://stackoverflow.com/users/3420557/red-goblin)
+* [Email](mailto:naba.sadia.siddiqui@gmail.com)
