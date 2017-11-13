@@ -8,12 +8,13 @@ I used to be an avid reader, and want to start reading again. I like to read all
 
 ### Currently Reading
 
-* [Lean In by Sheryl Sandberg](https://leanin.org/book/)
+*  
 
 ### Read
 
-2017  
-* [Pirates and Emperors, Old and New: International Terrorism in the Real World by Noam Chomsky](https://chomsky.info/books/)
+2017
+* [Lean In by Sheryl Sandberg](https://leanin.org/book/)  
+* [Pirates and Emperors, Old and New: International Terrorism in the Real World by Noam Chomsky](https://chomsky.info/books/)  
 * [World Order: Reflections on the Character of Nations and the Course of History by Henry Kissinger](http://www.henryakissinger.com/books.html)  
 * [First Muslim: The Story of Muhammad by Lesley Hazleton](http://thefirstmuslim.com/)  
 * [The Magic of Reality: How We Know What's Really True by Richard Dawkins](https://www.richarddawkins.net/2013/02/the-magic-of-reality-hardcover/)  
