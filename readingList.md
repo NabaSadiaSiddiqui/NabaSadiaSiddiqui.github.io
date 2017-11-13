@@ -8,7 +8,7 @@ I used to be an avid reader, and want to start reading again. I like to read all
 
 ### Currently Reading
 
-*  
+*  [Sapiens: A Brief History of Humankind by Yuval Noah Harari](http://www.ynharari.com/book/sapiens/)  
 
 ### Read
 
