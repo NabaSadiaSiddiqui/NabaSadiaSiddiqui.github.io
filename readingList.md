@@ -8,7 +8,8 @@ I used to be an avid reader, and want to start reading again. I like to read all
 
 ### Currently Reading
 
-*  [Sapiens: A Brief History of Humankind by Yuval Noah Harari](http://www.ynharari.com/book/sapiens/)  
+* [Sapiens: A Brief History of Humankind by Yuval Noah Harari](http://www.ynharari.com/book/sapiens/)  
+* [Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman with Julie Sussman](https://mitpress.mit.edu/sicp/)
 
 ### Read
 
