@@ -13,6 +13,7 @@ I used to be an avid reader, and want to start reading again. I like to read all
 ### Read
 
 2018
+* [Blockchain Revolution by Don Tapscot and Alex Tapscot](http://dontapscott.com/books/blockchain-revolution/)  
 * [Sapiens: A Brief History of Humankind by Yuval Noah Harari](http://www.ynharari.com/book/sapiens/) 
 
 2017
