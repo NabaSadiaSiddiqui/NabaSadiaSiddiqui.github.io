@@ -13,6 +13,7 @@ I used to be an avid reader, and want to start reading again. I like to read all
 ### Read
 
 2018
+* [Wherever I Find Myself: Stories by Canadian Immigrant Women editied by Miriam Matejovia](http://caitlin-press.com/our-books/wherever-i-find-myself/)  
 * [A Full Life: Reflections at Ninenty by Jimmy Carter](http://www.simonandschuster.ca/books/A-Full-Life/Jimmy-Carter/9781501115646)  
 * [Blockchain Revolution by Don Tapscot and Alex Tapscot](http://dontapscott.com/books/blockchain-revolution/)  
 * [Sapiens: A Brief History of Humankind by Yuval Noah Harari](http://www.ynharari.com/book/sapiens/) 
