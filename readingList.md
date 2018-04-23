@@ -13,6 +13,7 @@ I used to be an avid reader, and want to start reading again. I like to read all
 ### Read
 
 2018
+* [Muslim Women Speak: A Tapestry of Lives and Dreams by Amani Hamdan](https://www.canadianscholars.ca/awards/muslim-women-speak-a-tapestry-of-lives-and-dreams-winner-of-the-2011-outstanding-scholarship-prize)
 * [Hit Refresh by Satya Nadella](https://news.microsoft.com/hitrefresh/)
 * [Wherever I Find Myself: Stories by Canadian Immigrant Women editied by Miriam Matejovia](http://caitlin-press.com/our-books/wherever-i-find-myself/)  
 * [A Full Life: Reflections at Ninenty by Jimmy Carter](http://www.simonandschuster.ca/books/A-Full-Life/Jimmy-Carter/9781501115646)  
