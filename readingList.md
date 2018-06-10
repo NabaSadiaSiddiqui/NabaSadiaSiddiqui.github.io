@@ -7,12 +7,12 @@ permalink: /reading-list/
 I used to be an avid reader, and want to start reading again. I like to read all kinds of books - technical books, current affairs, fiction, self-help. Inspired by leaders like Bill Gates, I want to share the books I have read or reading. This is by no means a way to influence your bookshelf :) This is in addition to the record I maintain on Goodreads.
 
 ### Currently Reading
-* [Videocracy by Kevin Allocaa](https://www.goodreads.com/book/show/34921568-videocracy)
 * [Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman with Julie Sussman](https://mitpress.mit.edu/sicp/)
 
 ### Read
 
 2018
+* [Videocracy by Kevin Allocaa](https://www.goodreads.com/book/show/34921568-videocracy)
 * [Erotic Stories for Punjabi Widows by Balli Kaur Jaswal](https://www.harpercollins.com/9780062645128/erotic-stories-for-punjabi-widows/)
 * [Muslim Women Speak: A Tapestry of Lives and Dreams by Amani Hamdan](https://www.canadianscholars.ca/awards/muslim-women-speak-a-tapestry-of-lives-and-dreams-winner-of-the-2011-outstanding-scholarship-prize)
 * [Hit Refresh by Satya Nadella](https://news.microsoft.com/hitrefresh/)
