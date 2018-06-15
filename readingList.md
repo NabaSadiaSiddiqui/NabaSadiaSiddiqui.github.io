@@ -12,6 +12,7 @@ I used to be an avid reader, and want to start reading again. I like to read all
 ### Read
 
 2018
+* [Brotopia: Breaking Up the Boys' Club of Silicon Valley by Emily Chang](https://www.penguinrandomhouse.com/books/547571/brotopia-by-emily-chang/9780735213531/)
 * [Videocracy by Kevin Allocaa](https://www.goodreads.com/book/show/34921568-videocracy)
 * [Erotic Stories for Punjabi Widows by Balli Kaur Jaswal](https://www.harpercollins.com/9780062645128/erotic-stories-for-punjabi-widows/)
 * [Muslim Women Speak: A Tapestry of Lives and Dreams by Amani Hamdan](https://www.canadianscholars.ca/awards/muslim-women-speak-a-tapestry-of-lives-and-dreams-winner-of-the-2011-outstanding-scholarship-prize)
