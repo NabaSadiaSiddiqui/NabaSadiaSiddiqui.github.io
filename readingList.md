@@ -12,6 +12,7 @@ I used to be an avid reader, and want to start reading again. I like to read all
 ### Read
 
 2018
+* [The Four: The Hidden DNA of Amazon, Apple, Facebook and Google by Scott Galloway](http://www.thefourbook.com/)
 * [Super Freakonomics by Steven D. Levitt & Stephen J. Dubner](http://freakonomics.com/books/)
 * [The End of Epidemics by Jonathan D. Quick](http://www.endofepidemics.com/author/)
 * [Brotopia: Breaking Up the Boys' Club of Silicon Valley by Emily Chang](https://www.penguinrandomhouse.com/books/547571/brotopia-by-emily-chang/9780735213531/)
