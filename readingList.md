@@ -7,6 +7,8 @@ permalink: /reading-list/
 I used to be an avid reader, and want to start reading again. I like to read all kinds of books - technical books, current affairs, fiction, self-help. Inspired by leaders like Bill Gates, I want to share the books I have read or reading. This is by no means a way to influence your bookshelf :) This is in addition to the record I maintain on Goodreads.
 
 ### Currently Reading
+* [The Rise and fall of the German Air Force, 1933-1945](https://www.amazon.com/Rise-fall-German-Force-1933-1945/dp/0312683693)
+* [Lion by Saroo Brierly](https://www.penguin.com.au/books/lion-a-long-way-home-9780143572305)
 * [Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman with Julie Sussman](https://mitpress.mit.edu/sicp/)
 
 ### Read
