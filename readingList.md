@@ -14,6 +14,7 @@ I used to be an avid reader, and want to start reading again. I like to read all
 ### Read
 
 2018
+* [Bosnia's Million Bones by Christian Jennings](https://www.goodreads.com/book/show/17378053-bosnia-s-million-bones)
 * [The Four: The Hidden DNA of Amazon, Apple, Facebook and Google by Scott Galloway](http://www.thefourbook.com/)
 * [Super Freakonomics by Steven D. Levitt & Stephen J. Dubner](http://freakonomics.com/books/)
 * [The End of Epidemics by Jonathan D. Quick](http://www.endofepidemics.com/author/)
