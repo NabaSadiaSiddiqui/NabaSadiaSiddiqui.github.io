@@ -8,12 +8,12 @@ I used to be an avid reader, and want to start reading again. I like to read all
 
 ### Currently Reading
 * [The Rise and fall of the German Air Force, 1933-1945](https://www.amazon.com/Rise-fall-German-Force-1933-1945/dp/0312683693)
-* [Lion by Saroo Brierly](https://www.penguin.com.au/books/lion-a-long-way-home-9780143572305)
 * [Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman with Julie Sussman](https://mitpress.mit.edu/sicp/)
 
 ### Read
 
 2018
+* [Lion by Saroo Brierly](https://www.penguin.com.au/books/lion-a-long-way-home-9780143572305)
 * [Bosnia's Million Bones by Christian Jennings](https://www.goodreads.com/book/show/17378053-bosnia-s-million-bones)
 * [The Four: The Hidden DNA of Amazon, Apple, Facebook and Google by Scott Galloway](http://www.thefourbook.com/)
 * [Super Freakonomics by Steven D. Levitt & Stephen J. Dubner](http://freakonomics.com/books/)
