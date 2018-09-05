@@ -4,7 +4,7 @@ title: Reading List
 permalink: /reading-list/
 ---
 
-I used to be an avid reader, and want to start reading again. I like to read all kinds of books - technical books, current affairs, fiction, self-help. Inspired by leaders like Bill Gates, I want to share the books I have read or reading. This is by no means a way to influence your bookshelf :) This is in addition to the record I maintain on Goodreads.
+My goal is to read atleast 20 books each year.
 
 ### Currently Reading
 * [The Rise and fall of the German Air Force, 1933-1945](https://www.amazon.com/Rise-fall-German-Force-1933-1945/dp/0312683693)
