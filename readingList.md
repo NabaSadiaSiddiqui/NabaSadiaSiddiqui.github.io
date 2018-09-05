@@ -13,6 +13,7 @@ I used to be an avid reader, and want to start reading again. I like to read all
 ### Read
 
 2018
+* [The Fourth Industrial Revolution by Klaus Schwab](https://www.weforum.org/about/the-fourth-industrial-revolution-by-klaus-schwab)
 * [Lion by Saroo Brierly](https://www.penguin.com.au/books/lion-a-long-way-home-9780143572305)
 * [Bosnia's Million Bones by Christian Jennings](https://www.goodreads.com/book/show/17378053-bosnia-s-million-bones)
 * [The Four: The Hidden DNA of Amazon, Apple, Facebook and Google by Scott Galloway](http://www.thefourbook.com/)
