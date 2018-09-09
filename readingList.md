@@ -7,13 +7,13 @@ permalink: /reading-list/
 My goal is to read atleast 20 books each year.
 
 ### Currently Reading
-* [Crimson Papers by Harris Khalique](https://global.oup.com/academic/product/crimson-papers-9780199407323?cc=ca&lang=en&)
 * [The Rise and fall of the German Air Force, 1933-1945](https://www.amazon.com/Rise-fall-German-Force-1933-1945/dp/0312683693)
 * [Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman with Julie Sussman](https://mitpress.mit.edu/sicp/)
 
 ### Read
 
 2018
+* [Crimson Papers by Harris Khalique](https://global.oup.com/academic/product/crimson-papers-9780199407323?cc=ca&lang=en&)
 * [The Fourth Industrial Revolution by Klaus Schwab](https://www.weforum.org/about/the-fourth-industrial-revolution-by-klaus-schwab)
 * [Lion by Saroo Brierly](https://www.penguin.com.au/books/lion-a-long-way-home-9780143572305)
 * [Bosnia's Million Bones by Christian Jennings](https://www.goodreads.com/book/show/17378053-bosnia-s-million-bones)
