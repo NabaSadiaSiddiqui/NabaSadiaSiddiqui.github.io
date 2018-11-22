@@ -13,6 +13,7 @@ My goal is to read atleast 20 books each year.
 ### Read
 
 2018
+* [What's Yours is Mine - Against the Sharing Economy by Tom Slee](https://www.orbooks.com/catalog/whats-mine-tom-slee-2nd-ed/)
 * [Splinternet by Scott Malcomson](https://www.orbooks.com/catalog/splinternet-by-scott-malcomson/)
 * [Crimson Papers by Harris Khalique](https://global.oup.com/academic/product/crimson-papers-9780199407323?cc=ca&lang=en&)
 * [The Fourth Industrial Revolution by Klaus Schwab](https://www.weforum.org/about/the-fourth-industrial-revolution-by-klaus-schwab)
