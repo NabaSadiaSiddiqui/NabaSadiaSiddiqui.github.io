@@ -13,6 +13,7 @@ My goal is to read atleast 20 books each year.
 ### Read
 
 2018
+* [Easternization by Gideon Rachman](https://www.otherpress.com/books/easternization/)
 * [Reset by Ellen Pao](https://www.penguinrandomhouse.com/books/551446/reset-by-ellen-pao/9780399591013/)
 * [What's Yours is Mine - Against the Sharing Economy by Tom Slee](https://www.orbooks.com/catalog/whats-mine-tom-slee-2nd-ed/)
 * [Splinternet by Scott Malcomson](https://www.orbooks.com/catalog/splinternet-by-scott-malcomson/)
