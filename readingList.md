@@ -12,6 +12,9 @@ My goal is to read atleast 20 books each year.
 
 ### Read
 
+2019
+* [For Your Tomorrow by Melanie Murray](http://www.melaniemurray.ca/for-your-tomorrow.html)
+
 2018
 * [Easternization by Gideon Rachman](https://www.otherpress.com/books/easternization/)
 * [Reset by Ellen Pao](https://www.penguinrandomhouse.com/books/551446/reset-by-ellen-pao/9780399591013/)
