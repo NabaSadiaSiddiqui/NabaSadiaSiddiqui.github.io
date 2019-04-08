@@ -13,6 +13,7 @@ My goal is to read atleast 20 books each year.
 ### Read
 
 2019
+* [Darling, You Can't Do Both by Janet Kestin and Nancy Vonk](https://www.harpercollins.ca/9781554685813/darling-you-cant-do-both/)
 * [For Your Tomorrow by Melanie Murray](http://www.melaniemurray.ca/for-your-tomorrow.html)
 
 2018
