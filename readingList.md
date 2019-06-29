@@ -13,6 +13,7 @@ My goal is to read atleast 20 books each year.
 ### Read
 
 2019
+* [Dear Ijeawele, or A Feminist Manifesto in Fifteen Suggestions by Chimamanda Ngozi Achichie](https://www.penguinrandomhouse.com/books/557086/dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions-by-chimamanda-ngozi-adichie/9780525434801/)
 * [All the Single Ladies by Rebecca Traister](https://www.goodreads.com/book/show/25814394-all-the-single-ladies)
 * [Darling, You Can't Do Both by Janet Kestin and Nancy Vonk](https://www.harpercollins.ca/9781554685813/darling-you-cant-do-both/)
 * [Reinventing Scale-Ups by Brent Lowe, Susan Basterfield, Travis Marsh](https://reinventingscaleups.com/)
