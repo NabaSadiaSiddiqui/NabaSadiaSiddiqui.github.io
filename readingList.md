@@ -13,6 +13,7 @@ My goal is to read atleast 20 books each year.
 ### Read
 
 2019
+* [Hooked - How to Build Habit-Forming Products by Nir Eyal](https://www.amazon.ca/Hooked-How-Build-Habit-Forming-Products/dp/0670069329)
 * [The Seven Qualities of Highly Secure Software by Mano Paul](https://www.crcpress.com/The-7-Qualities-of-Highly-Secure-Software/Paul/p/book/9781439814468)
 * [Dear Ijeawele, or A Feminist Manifesto in Fifteen Suggestions by Chimamanda Ngozi Achichie](https://www.penguinrandomhouse.com/books/557086/dear-ijeawele-or-a-feminist-manifesto-in-fifteen-suggestions-by-chimamanda-ngozi-adichie/9780525434801/)
 * [All the Single Ladies by Rebecca Traister](https://www.goodreads.com/book/show/25814394-all-the-single-ladies)
